@@ -1,0 +1,83 @@
+
+Pizza Topping Header File Is Found!
+
+Your Pizza Order Done Successful
+
+Value of your pizza variable p1:  10	
+
+Pizza Function Ordered!
+
+Your Pizza Order Done Successful
+
+Your Pizza Order Done Successful
+
+Your Pizza Order Done Successful
+
+Your Pizza Order Done Successful
+
+Your Pizza Order Done Successful
+
+Your Pizza Order Done Successful
+
+Alas You Ordered Pasta instead Pizza!
+
+Alas You Ordered Pasta instead Pizza!
+
+Comment detected
+
+Value of your pizza variable t:  8	
+
+Value of your pizza variable a1:  10	
+
+Value of your pizza variable b:  2	
+
+Value of your pizza variable c:  12	
+
+Value of your pizza variable d:  8	
+
+Value of your pizza variable a1:  10	
+
+Value of your pizza variable b:  2	
+
+Condition wrong in CHECKIF Pizza
+
+Value of your pizza variable c:  12	
+
+Value of your pizza variable d:  2	
+
+Condition correct in CHECKIF Pizza
+
+Condition correct in CHECKIF Pizza
+
+Your Pizza Executed 10
+
+Value of your pizza variable d:  1	
+
+Value of your pizza variable b:  2	
+Your Toppings in for loop increasing 2
+Your Toppings in for loop increasing 4
+
+
+Value of your pizza variable b:  2	
+Your Toppings in for loop Decreasing 6
+Your Toppings in for loop Decreasing 3
+Your Toppings in for loop Decreasing 0
+
+
+Value of your pizza variable a1:  10	
+While loop is serving your pizza value of your pizza a1 : 12
+While loop is serving your pizza value of your pizza a1 : 14
+
+Value of your pizza variable d:  1	
+Value of Sin(30) is 0.500001
+Value of Cos(30) is 0.866025
+Value of Tan(45) is 1.000004
+Value of ln(16) is 2.772589
+Value of Log10(1000) is 3.000000
+value provided for OddEven function is 50 which is even
+value provided for OddEven function is 2 which is even
+Factorial of 5 is 120
+GCD of (15, 2): 1 
+23 is prime 
+
+Pizza Program ended successfully

@@ -1,0 +1,87 @@
+#include < habijabi.h >
+
+Def pq ( c , d ) 
+{
+	cheese p1;
+	p1 = 10;
+	value(p1);
+}
+
+mainpizza{
+    cheese a1 , b , c , d , e, t ;
+	cheese a1 ;
+	cheese a1;
+	t = 8 ;
+
+	' wordy s = "this is my compiler program" '
+
+	value(t);
+	a1 = 10 ;
+	value(a1);
+	b = 2; 
+	value(b);
+
+    c = a1 + b ;
+    d = a1 - b ;
+    value(c);
+    value(d);
+
+	checkif[a1 > b] 
+	{ 
+		checkif[c < a1] 
+			{ d = c ; value(a1);}
+		otherwise 
+			{ d = a1 ; value(b);} 
+	}
+	otherwise 
+	{ 
+		checkif[c > b] 
+			{ d = c + a1 ; 
+			 value(c);
+			}
+		otherwise
+			{ d = b;
+			  value(d);
+			} 
+	}
+
+	button[a1]
+	{
+		2  :   {d=2;}
+		10 :   {d = 10;}
+		fallback : {d = 1; }
+	}
+	value(d);
+	 
+	loopfor ( b = 2 , b <= 5 , b up 2 ) 
+	{	   
+		value(b);
+	}
+	loopfor ( b = 6 , b >= 0 , b down 3 ) 
+	{
+	    
+		value(b);
+	}
+
+    keepgoing ( a1 < 15, 2 )
+	{
+        value(a1);
+	}
+	value(d);
+	sinwave(30);
+	cosmic(30);
+	tangent(45);
+	naturelog(16);
+	logrithm(1000);
+	OddEven(50);
+	OddEven(b);
+	factorizeme(5);
+	gcdpizza(15,2);
+	primepizza(23);
+	
+
+}
+
+
+	
+ 
