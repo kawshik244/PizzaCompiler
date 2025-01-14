@@ -28,11 +28,13 @@ PizzaCompiler is a mini-compiler designed to process a custom programming langua
    gcc lex.yy.c filename.tab.c -o PizzaCompiler
 
 2. Run the compiler:
+   ```bash
    ./PizzaCompiler
-3. Write and process code in the custom language!
+4. Write and process code in the custom language!
 
 ## **Sample Code**
 
+```bash
 #include <topping.h>
 mainpizza {
   cheese x = 10;
